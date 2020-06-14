@@ -173,12 +173,12 @@ Le nom d'utilisateur doit comporter au moins trois caractères, et être uniquem
 
 Les comptes enregistrés doivent également conserver la date d'inscription. Après l'inscription, l'utilisateur est redirigé vers la page Profil.
 
-La page de profil (voir `profile_page.png`) :
+#### La page de profil (voir `profile_page.png`) :
 
 
 Elle contient un message d'accueil, les données du profil et l'heure de connexion à la session. Alors que le nom d'utilisateur et la date d'inscription sont stockés dans la base de données, l'heure de connexion à la session peut être stockée dans la session en cours.
 
-La page Contacts (voir `contact_page.png`) :
+#### La page Contacts (voir `contact_page.png`) :
 
 
 Le contenu est divisé en deux : la liste des contacts et le formulaire d'ajout/de modification des contacts (voir `Contacts_list(CRUD).png`).
