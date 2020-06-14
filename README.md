@@ -132,7 +132,7 @@ Note : Vous pouvez travailler avec les composants de bootstrap. Vous pouvez vous
 19. Nous pouvons maintenant tester notre implémentation complète. 
 
 
-## Application de gestion des contacts
+## Biref projet : Application de gestion des contacts
 
 ### Contexte
 Vous êtes tenu de créer un site web où les utilisateurs peuvent créer un compte et se connecter ensuite pour gérer une liste privée de contacts. Le site web utilisera des bases de données pour stocker les données de connexion des utilisateurs, ainsi que pour stocker les contacts de chaque utilisateur.
@@ -149,7 +149,7 @@ Les pages requises sont les suivantes :
 
 La mise en page est telle qu'elle est présentée :
 
-#### Biref projet : La page d'accueil (voir `home_page.png`)
+#### La page d'accueil (voir `home_page.png`)
 
 Une barre de navigation horizontale se trouve en haut de la page, avec le titre du site à gauche et le bouton de connexion à droite. Après une connexion réussie, le bouton `Connexion` est remplacé par le nom d'utilisateur, qui renvoie à la page `Profil`, au lien de la page `Contacts` et au lien Déconnexion.
 
