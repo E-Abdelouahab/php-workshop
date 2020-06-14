@@ -149,7 +149,7 @@ Les pages requises sont les suivantes :
 
 La mise en page est telle qu'elle est présentée :
 
-#### La page d'accueil (voir `home_page.png`)
+#### Biref projet : La page d'accueil (voir `home_page.png`)
 
 Une barre de navigation horizontale se trouve en haut de la page, avec le titre du site à gauche et le bouton de connexion à droite. Après une connexion réussie, le bouton `Connexion` est remplacé par le nom d'utilisateur, qui renvoie à la page `Profil`, au lien de la page `Contacts` et au lien Déconnexion.
 
