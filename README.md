@@ -187,10 +187,10 @@ La liste de contacts énumère les enregistrements de contacts, chaque enregistr
 
 #### Le formulaire de contact aura les noms de champs suivants :
 
-Nom : obligatoire ; au moins deux caractères
-Téléphone : facultatif ; ne doit autoriser que le +-() 666988756
-Courriel : obligatoire ; doit être validé
-Adresse : facultative ; 255 caractères maximum
+- Nom : obligatoire ; au moins deux caractères
+- Téléphone : facultatif ; ne doit autoriser que le +-() 666988756
+- Courriel : obligatoire ; doit être validé
+- Adresse : facultative ; 255 caractères maximum
 
 
 Les messages d'erreur concernant des données non valides doivent être placés sous les entrées d'où émanent les données.
